@@ -1,0 +1,29 @@
+-----------------
+COMPROBACIÓN DNS
+-----------------
+-Mostrar desde este equipo en windows propiedades
+-Hacer ping a la ip de server y al dominio
+
+
+------------------
+COMPROBACIÓN DHCP
+------------------
+-Mostrar que la ip del server es automatica
+y mostrar del server el rango de las ip's
+
+
+-----------------
+COMPROBACIÓN FTP
+-----------------
+-Crear archivos de uno al otro
+
+Comando para entrar a la cuenta: sudo su - AdminYesseniaCarbajal
+
+Comando para entrar al directorio: cd /home/samba/shares/archivoscompartidos/
+
+Comando para mostrar lo que hay dentro: ls
+
+Comando para crear archivo del server: touch nombrearchivo.txt
+
+
+
